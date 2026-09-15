@@ -551,11 +551,11 @@ Project Type: Major Project
 
 Domain: Data Analytics / Agriculture
 
-Student Name: YOUR NAME
+Student Name: Kunal Joon
 
-College: YOUR COLLEGE
+College: Sushant University
 
-AICTE STU ID: YOUR STU ID
+AICTE STU ID: STU6a05644eb11611778738254
 
 📜 Conclusion
 
